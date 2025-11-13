@@ -34,5 +34,5 @@ This project demonstrates how to use Java’s built-in **cryptographic APIs** to
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/AESCipherProject.git
+git clone https://github.com/<AmanPrakash0017>/AESCipherProject.git
 cd AESCipherProject
