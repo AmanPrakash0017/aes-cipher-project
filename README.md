@@ -38,15 +38,15 @@ git clone https://github.com/AmanPrakash0017/AESCipherProject.git
 cd AESCipherProject
 ```
 
-###2️⃣ Compile the Java Code
+### 2️⃣ Compile the Java Code
 ```bash
 javac AESCipherProject.java
 ```
-###3️⃣ Run the Application
+### 3️⃣ Run the Application
 ```bash
 java AESCipherProject
 ```
-###🧠 How to Use
+### 🧠 How to Use
 
 When the program starts, you’ll see a main menu like this:
 ```mathemaical
@@ -58,7 +58,7 @@ When the program starts, you’ll see a main menu like this:
 5. Exit
 ```
 
-###👉 Choose an option:
+👉 Choose an option:
 
 For text: enter your message to encrypt or decrypt.
 
@@ -66,7 +66,8 @@ For files: enter the file path (e.g., C:\Users\Aman\Desktop\test.txt).
 
 Save the key and IV if you want to decrypt later.
 
-###🧾 Example Output
+### 🧾 Example Output
+```pgsql
 --- AES CBC Mode ---
 Enter text to encrypt: Hello Java Security!
 
@@ -76,15 +77,15 @@ Enter text to encrypt: Hello Java Security!
 [Technical Details]
 Key (Base64): Zx8k+sp7JrTG5fXoEbZxW0Q==
 IV (Base64): iD91K+6zVw5wbiW8Zytd0A==
-
-###🧰 Project Structure
+```
+### 🧰 Project Structure
 ```bash
 AESCipherProject/
 ├── AESCipherProject.java    # Main class with menu and user interface
 ├── AESCipher.java           # AES encryption/decryption logic
 └── README.md                # Project documentation
 ```
-###🧤 Security Disclaimer
+### 🧤 Security Disclaimer
 
 This project is created for educational and learning purposes only.
 It demonstrates cryptographic concepts using AES in Java.
@@ -96,7 +97,7 @@ Random salt generation and storage
 
 Encrypted key storage and access control
 
-###📚 Learning Outcomes
+### 📚 Learning Outcomes
 
 Through this project, I learned how to:
 
@@ -110,7 +111,7 @@ Perform file I/O operations using CipherOutputStream and CipherInputStream.
 
 Build a console-based interactive Java application.
 
-###👨‍💻 Author
+### 👨‍💻 Author
 
 Aman Prakash Jena
 💻 Java Developer & Security Enthusiast
@@ -118,10 +119,11 @@ Aman Prakash Jena
 
 ⭐ If you found this project useful, don’t forget to star the repository! 🌟
 
-
+```bash
 ---
 
 ✅ **Ready to Use:**  
 Just paste this text into a new file named `README.md` in your project folder before committing to GitHub.  
 
-Would you like me to also generate a **short Git commit message and repo description** you can use while uploading this project
+Would you like me to also generate a **short Git commit message and repo description** you can use while uploading this project?
+```
