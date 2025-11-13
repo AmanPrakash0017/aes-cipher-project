@@ -81,8 +81,7 @@ IV (Base64): iD91K+6zVw5wbiW8Zytd0A==
 ### 🧰 Project Structure
 ```bash
 AESCipherProject/
-├── AESCipherProject.java    # Main class with menu and user interface
-├── AESCipher.java           # AES encryption/decryption logic
+├── AESCipherProject.java    # Main class, AES encryption/decryption logic with menu and user interface
 └── README.md                # Project documentation
 ```
 ### 🧤 Security Disclaimer
